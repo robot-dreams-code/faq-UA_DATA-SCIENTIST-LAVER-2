@@ -1,12 +1,12 @@
-key,value
-course_name,Product Manager PRO
-course_subtitle,"Відповіді на часті запитання про навчання, оплату, сертифікат і доступ до матеріалів курсу."
-subbrand,faq
-tags,"онлайн-курс, 4 місяці, junior-middle"
-accent,#4BD86A
-site_url,https://robotdreams.cc
-site_label,robotdreams.cc
-contact_title,Не знайшли відповідь?
-contact_text,"Напишіть у підтримку — відповімо в робочий час."
-contact_label,Написати в підтримку
-contact_url,https://robotdreams.cc
+"key","value"
+"course_name","Data Scientist"
+"course_subtitle","Відповіді на часті запитання про навчання на курсі."
+"subbrand","faq"
+"tags","онлайн-курс, 38 занять, junior"
+"accent","#4BD86A"
+"site_url","https://robotdreams.cc/uk/course/682-data-scientist"
+"site_label","Лектор Василь Лавер — Senior Data Scientist у Dell Technologies"
+"contact_title","Не знайшли відповідь?"
+"contact_text","Напишіть у Slack-канал цього потоку, і команда курсу допоможе."
+"contact_label","Написати в Slack"
+"contact_url","https://robotdreamscc.slack.com/archives/C0C4FAH5H5Y"
